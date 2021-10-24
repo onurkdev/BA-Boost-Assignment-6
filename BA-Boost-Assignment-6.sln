@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA-Boost-Assignment-6", "BA-Boost-Assignment-6\BA-Boost-Assignment-6.csproj", "{430B8F64-D4FF-46AD-B520-4B807AFC0B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430B8F64-D4FF-46AD-B520-4B807AFC0B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430B8F64-D4FF-46AD-B520-4B807AFC0B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430B8F64-D4FF-46AD-B520-4B807AFC0B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430B8F64-D4FF-46AD-B520-4B807AFC0B21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5505537-4B68-4AF7-A402-12D96786DBD2}
+	EndGlobalSection
+EndGlobal
